@@ -1,4 +1,9 @@
 {
+  "users":[{
+    "username":"sri",
+    "email":"s@gmail.com",
+    "password":"pass"
+  }],
 "places":[
     {
       "id":1,
